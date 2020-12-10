@@ -5,7 +5,7 @@ I am Nikhil Balwani, I work as a Data Scientist.
 [![Gmail](https://api.iconify.design/logos:google-gmail.svg?width=40&height=40)](mailto:nikhilbalwani1998@gmail.com) 
 [![Linkedin](https://api.iconify.design/openmoji:linkedin.svg?width=40&height=40)](https://www.linkedin.com/in/nikhilbalwani/) 
 [![Twitter](https://api.iconify.design/openmoji:twitter.svg?width=40&height=40)](https://twitter.com/nikhilbalwani) 
-[![Instagram](https://api.iconify.design/logos:instagram-icon.svg?width=3)](https://instagram.com/nikhilnbalwani)
+[![Instagram](https://api.iconify.design/logos:instagram-icon.svg?width=40&height=40)](https://instagram.com/nikhilnbalwani)
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 <!--
