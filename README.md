@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Nikhil Balwani, I work as a Data Scientist.
+I am Nikhil Balwani and I love Computer Science in general! 
 
 [![Gmail](https://api.iconify.design/logos:google-gmail.svg?width=40&height=40)](mailto:nikhilbalwani1998@gmail.com) 
 [![Linkedin](https://api.iconify.design/openmoji:linkedin.svg?width=40&height=40)](https://www.linkedin.com/in/nikhilbalwani/) 
