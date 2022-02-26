@@ -13,6 +13,7 @@ Some quick links to personal projects:
 - [Bloom Filter Implementation](https://github.com/nikhilbalwani/bloom-filter)
 - [Okapi "Best Match" 25 Algorithm](https://github.com/nikhilbalwani/okapi-bm25)
 - [XV6 Operating System - Bootloader](https://github.com/nikhilbalwani/xv6-PDOS-bootloader)
+- [Face Detection and Expression Recognition](https://github.com/MaharshSuryawala/Face-Detection-and-Facial-Expression-Recognition)
 
 <!--
 **nikhilbalwani/nikhilbalwani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
