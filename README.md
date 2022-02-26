@@ -7,9 +7,12 @@ I am Nikhil Balwani and I love Computer Science!
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
-Some quick linkes:
+Some quick links to personal projects:
 
-[Project MLify](https://github.com/nikhilbalwani/mlify/tree/master/notebooks)
+[Project MLify - Machine Learning from Scratch](https://github.com/nikhilbalwani/mlify/tree/master/notebooks)
+[Bloom Filter Implementation](https://github.com/nikhilbalwani/bloom-filter)
+[Okapi "Best Match" 25 Algorithm](https://github.com/nikhilbalwani/okapi-bm25)
+[XV6 Operating System - Bootloader](https://github.com/nikhilbalwani/xv6-PDOS-bootloader)
 
 <!--
 **nikhilbalwani/nikhilbalwani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
