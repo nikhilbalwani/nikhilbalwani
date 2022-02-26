@@ -6,6 +6,11 @@ I am Nikhil Balwani and I love Computer Science!
 [![Linkedin](https://api.iconify.design/openmoji:linkedin.svg?width=40&height=40)](https://www.linkedin.com/in/nikhilbalwani/)
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+
+Some quick linkes:
+
+[Project MLify](https://github.com/nikhilbalwani/mlify/tree/master/notebooks)
+
 <!--
 **nikhilbalwani/nikhilbalwani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
