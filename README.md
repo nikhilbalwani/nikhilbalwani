@@ -3,7 +3,7 @@
 
 I am a Computer Science graduate student at Columbia University in the City of New York. I have two years of experience in Machine Learning and Data Science roles. 
 
-My core competencies include training large custom neural network models on TPUs, Deep Learning, Natural Language Processing, and Statistical Modeling. I am familiar with Apache Beam on Google Cloud Dataflow and PySpark for large scale parallel processing of Big Data.I am an incoming Computer Science graduate student at Columbia University in the City of New York. I have two years of experience in Machine Learning and Data Science roles. My core competencies include training large custom neural network models on TPUs, Deep Learning, Natural Language Processing, and Statistical Modeling. I am familiar with Apache Beam on Google Cloud Dataflow and PySpark for large scale parallel processing of Big Data.
+My core competencies include training large custom neural network models on TPUs, Deep Learning, Natural Language Processing, and Statistical Modeling. I am familiar with Apache Beam on Google Cloud Dataflow and PySpark for large scale parallel processing of Big Data.
 
 
 [![Gmail](https://api.iconify.design/logos:google-gmail.svg?width=40&height=40)](mailto:nikhilbalwani1998@gmail.com) 
